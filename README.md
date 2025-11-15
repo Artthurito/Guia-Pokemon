@@ -55,4 +55,4 @@ Este projeto foi uma combinação de duas atividades (Aula 07 e 08) e visava cum
 Este projeto foi realizado em equipe por:
 
 * **Arthur Angeli** ([@Artthurito](https://github.com/Artthurito))
-* **Enzo Wassano** - ([@Toc-o](https://github.com/Toc-o))
+* **Enzo Wassano** ([@Toc-o](https://github.com/Toc-o))
