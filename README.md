@@ -56,7 +56,3 @@ Este projeto foi realizado em equipe por:
 
 * **Arthur Angeli** ([@Artthurito](https://github.com/Artthurito))
 * **Enzo Wassano** - ([@Toc-o](https://github.com/Toc-o))
-
-    git clone [https://github.com/Artthurito/](https://github.com/Artthurito/)[NOME-DO-REPOSITORIO].git
-    ```
-2.  Abra o arquivo `index.html` no seu navegador.
